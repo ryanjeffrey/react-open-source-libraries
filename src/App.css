@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;500&display=swap');
+
 nav {
   display: flex;
   justify-content: center;
@@ -11,4 +13,8 @@ a {
 
 h1 {
   text-align: center;
+}
+
+.App {
+  font-family: 'Space Grotesk', sans-serif;
 }

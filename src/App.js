@@ -18,7 +18,7 @@ function App() {
       </nav>
       <Switch>
         <Route path="/table">
-          <h1>Table Library</h1>
+          <h1>MUI Data Table</h1>
           <Table />
         </Route>
         <Route path="/charts">
